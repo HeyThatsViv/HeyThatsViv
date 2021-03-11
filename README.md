@@ -18,7 +18,6 @@ Contact me if you would like to chat about data, machine learning, science, book
 
 :wrench:**I'm currently working on:**
 - Python 3 deep dive course series on Udemy
-- Creating a Tableau story as a companion to my project titled "Functional Status of Water Wells" 
 - A project to build a mental health chatbot
 
 
